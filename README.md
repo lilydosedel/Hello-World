@@ -2,10 +2,11 @@
 ## Repo for BAIS3050 Professional Preparation
 ### Lily Dosedel
 
-**Business Analytics Courses Completed/In Progress**
-- Foundations of Business Analytics
-- Computational Thinking
-- Database Management
-- Pro Prep
+**How to Run This File**
+1. Step one
+2. Step two
+3. Step three
 
-
+**Files Used**
+- [File](https://www.example.com)
+- [File](https://www.example.com)
